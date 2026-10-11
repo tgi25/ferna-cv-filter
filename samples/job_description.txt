@@ -1,0 +1,17 @@
+Job Title: Senior Data Scientist
+Company: Lanka Analytics (Pvt) Ltd
+Location: Colombo
+
+We are looking for a Senior Data Scientist to build machine learning products for our retail and banking clients.
+
+Requirements
+- Bachelor's degree in Computer Science, Statistics or Mathematics or a related field.
+- Minimum 4 years of experience in data science or machine learning roles.
+- Strong skills in Python, SQL, machine learning, scikit-learn and data visualization.
+- Experience with AWS and Docker for deploying models.
+- AWS Certified Machine Learning Specialty certification is required.
+- Relocation support available for candidates outside Colombo.
+
+Nice to have
+- A Master's degree is preferred.
+- Experience with PyTorch, natural language processing and Spark is an advantage.
