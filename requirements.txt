@@ -1,0 +1,12 @@
+streamlit>=1.50
+pydantic>=2.7
+pandas>=2.1
+altair>=5.2
+pdfplumber>=0.11
+pypdf>=4.2
+python-docx>=1.1
+openai>=1.40
+anthropic>=0.40
+
+# Optional — transformer embeddings for skill matching and JD<->CV similarity:
+# sentence-transformers>=3.0
